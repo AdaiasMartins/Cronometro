@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+    color: aliceblue;
+}
+
+button{
+    height: 2.5em;
+    width: 5.5em;
+    border: none;
+    color: aliceblue;
+}
+
+.Start-btn{
+    background-color: green;
+}
+
+.Pause-btn{
+    background-color: gray;
+}
+
+.Stop-btn{
+    background-color: red;
+}
